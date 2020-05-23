@@ -1,0 +1,13 @@
+D:\Proyectos\menus\bin\Debug\netcoreapp3.1\menus.exe
+D:\Proyectos\menus\bin\Debug\netcoreapp3.1\menus.deps.json
+D:\Proyectos\menus\bin\Debug\netcoreapp3.1\menus.runtimeconfig.json
+D:\Proyectos\menus\bin\Debug\netcoreapp3.1\menus.runtimeconfig.dev.json
+D:\Proyectos\menus\bin\Debug\netcoreapp3.1\menus.dll
+D:\Proyectos\menus\bin\Debug\netcoreapp3.1\menus.pdb
+D:\Proyectos\menus\obj\Debug\netcoreapp3.1\menus.csprojAssemblyReference.cache
+D:\Proyectos\menus\obj\Debug\netcoreapp3.1\menus.csproj.CoreCompileInputs.cache
+D:\Proyectos\menus\obj\Debug\netcoreapp3.1\menus.AssemblyInfoInputs.cache
+D:\Proyectos\menus\obj\Debug\netcoreapp3.1\menus.AssemblyInfo.cs
+D:\Proyectos\menus\obj\Debug\netcoreapp3.1\menus.dll
+D:\Proyectos\menus\obj\Debug\netcoreapp3.1\menus.pdb
+D:\Proyectos\menus\obj\Debug\netcoreapp3.1\menus.genruntimeconfig.cache
