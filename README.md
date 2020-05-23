@@ -1,5 +1,7 @@
 ﻿# Menú de consola en C#
 
+Ejemplo sencillo de un menú interactivo para consola 
+
 
 ## 🛠️ Construido con :
 
